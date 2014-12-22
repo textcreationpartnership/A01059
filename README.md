@@ -35,7 +35,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-THE FAMOVS HISTORIE OF MONTELYON, KNIGHT of the Oracle, and Sonne to the Renowned PERSICLES King of 
+
 1. TO THE GENTLEMEN Readers, health.
 
 1. In praise of the Author.
@@ -170,32 +170,28 @@ There are 281 **ommitted** fragments!
 |6.|__edition__|1||
 |7.|__editionStmt__|1||
 |8.|__editorialDecl__|1||
-|9.|__encodingDesc__|1||
-|10.|__extent__|2||
-|11.|__fileDesc__|1||
-|12.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
-|13.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
-|14.|__label__|5||
-|15.|__langUsage__|1||
-|16.|__language__|1| @__ident__ (1) : eng (1)|
-|17.|__listPrefixDef__|1||
-|18.|__note__|8||
-|19.|__notesStmt__|2||
-|20.|__p__|11||
-|21.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
-|22.|__profileDesc__|1||
-|23.|__projectDesc__|1||
-|24.|__pubPlace__|2||
-|25.|__publicationStmt__|2||
-|26.|__publisher__|2||
-|27.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
-|28.|__revisionDesc__|1||
-|29.|__seriesStmt__|1||
-|30.|__sourceDesc__|1||
-|31.|__term__|1||
-|32.|__textClass__|1||
-|33.|__title__|3||
-|34.|__titleStmt__|2||
+|9.|__extent__|2||
+|10.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
+|11.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
+|12.|__label__|5||
+|13.|__langUsage__|1||
+|14.|__language__|1| @__ident__ (1) : eng (1)|
+|15.|__listPrefixDef__|1||
+|16.|__note__|8||
+|17.|__notesStmt__|2||
+|18.|__p__|11||
+|19.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|20.|__projectDesc__|1||
+|21.|__pubPlace__|2||
+|22.|__publicationStmt__|2||
+|23.|__publisher__|2||
+|24.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|25.|__seriesStmt__|1||
+|26.|__sourceDesc__|1||
+|27.|__term__|1||
+|28.|__textClass__|1||
+|29.|__title__|3||
+|30.|__titleStmt__|2||
 
 
 ###Text Tag Usage###
@@ -203,22 +199,21 @@ There are 281 **ommitted** fragments!
 |No|element name|occ|attributes|
 |---|---|---|---|
 |1.|__abbr__|25||
-|2.|__body__|4||
+|2.|__body__|3||
 |3.|__closer__|3||
 |4.|__desc__|281||
 |5.|__div__|51| @__type__ (51) : title_page (1), to_the_reader (1), poem (2), text (1), chapter (46)  •  @__n__ (46) : 1 (1), 2 (1), 3 (1), 4 (1), 5 (1), 6 (1), 7 (1), 8 (1), 9 (1), 10 (1), 11 (1), 12 (1), 13 (1), 14 (1), 15 (1), 16 (1), 17 (1), 18 (1), 19 (1), 20 (1), 21 (1), 22 (1), 23 (1), 24 (1), 25 (1), 26 (1), 27 (1), 28 (1), 29 (1), 30 (1), 31 (1), 32 (1), 33 (1), 34 (1), 35 (1), 36 (1), 37 (1), 38 (1), 39 (1), 40 (1), 41 (1), 42 (1), 43 (1), 44 (1), 45 (1), 46 (1)|
 |6.|__floatingText__|3| @__type__ (2) : letter (2)  •  @__xml:lang__ (1) : eng (0)|
-|7.|__front__|1||
-|8.|__g__|1305| @__ref__ (1305) : char:EOLhyphen (1245), char:punc (53), char:cmbAbbrStroke (5), char:EOLunhyphen (2)|
-|9.|__gap__|281| @__reason__ (281) : illegible (281)  •  @__resp__ (281) : #PDCC (281)  •  @__extent__ (281) : 1 letter (241), 2 letters (23), 1 word (10), 3 letters (4), 4 letters (2), 1 span (1)|
-|10.|__head__|52||
-|11.|__hi__|2551| @__rend__ (7) : sup (7)|
-|12.|__l__|62||
-|13.|__opener__|2||
-|14.|__p__|336||
-|15.|__pb__|202| @__facs__ (202) : tcp:20827:1 (2), tcp:20827:2 (2), tcp:20827:3 (2), tcp:20827:4 (2), tcp:20827:5 (2), tcp:20827:6 (2), tcp:20827:7 (2), tcp:20827:8 (2), tcp:20827:9 (2), tcp:20827:10 (2), tcp:20827:11 (2), tcp:20827:12 (2), tcp:20827:13 (2), tcp:20827:14 (2), tcp:20827:15 (2), tcp:20827:16 (2), tcp:20827:17 (2), tcp:20827:18 (2), tcp:20827:19 (2), tcp:20827:20 (2), tcp:20827:21 (2), tcp:20827:22 (2), tcp:20827:23 (2), tcp:20827:24 (2), tcp:20827:25 (2), tcp:20827:26 (2), tcp:20827:27 (2), tcp:20827:28 (2), tcp:20827:29 (2), tcp:20827:30 (2), tcp:20827:31 (2), tcp:20827:32 (2), tcp:20827:33 (2), tcp:20827:34 (2), tcp:20827:35 (2), tcp:20827:36 (2), tcp:20827:37 (2), tcp:20827:38 (2), tcp:20827:39 (2), tcp:20827:40 (2), tcp:20827:41 (2), tcp:20827:42 (2), tcp:20827:43 (2), tcp:20827:44 (2), tcp:20827:45 (2), tcp:20827:46 (2), tcp:20827:47 (2), tcp:20827:48 (2), tcp:20827:49 (2), tcp:20827:50 (2), tcp:20827:51 (2), tcp:20827:52 (2), tcp:20827:53 (2), tcp:20827:54 (2), tcp:20827:55 (2), tcp:20827:56 (2), tcp:20827:57 (2), tcp:20827:58 (2), tcp:20827:59 (2), tcp:20827:60 (2), tcp:20827:61 (2), tcp:20827:62 (2), tcp:20827:63 (2), tcp:20827:64 (2), tcp:20827:65 (2), tcp:20827:66 (2), tcp:20827:67 (2), tcp:20827:68 (2), tcp:20827:69 (2), tcp:20827:70 (2), tcp:20827:71 (2), tcp:20827:72 (2), tcp:20827:73 (2), tcp:20827:74 (2), tcp:20827:75 (2), tcp:20827:76 (2), tcp:20827:77 (2), tcp:20827:78 (2), tcp:20827:79 (2), tcp:20827:80 (2), tcp:20827:81 (2), tcp:20827:82 (2), tcp:20827:83 (2), tcp:20827:84 (2), tcp:20827:85 (2), tcp:20827:86 (2), tcp:20827:87 (2), tcp:20827:88 (2), tcp:20827:89 (2), tcp:20827:90 (2), tcp:20827:91 (2), tcp:20827:92 (2), tcp:20827:93 (2), tcp:20827:94 (2), tcp:20827:95 (2), tcp:20827:96 (2), tcp:20827:97 (2), tcp:20827:98 (2), tcp:20827:99 (2), tcp:20827:100 (2), tcp:20827:101 (2)  •  @__rendition__ (8) : simple:additions (8)|
-|16.|__q__|3||
-|17.|__salute__|2||
-|18.|__seg__|47| @__rend__ (47) : decorInit (47)|
-|19.|__signed__|3||
-|20.|__trailer__|1||
+|7.|__g__|1305| @__ref__ (1305) : char:EOLhyphen (1245), char:punc (53), char:cmbAbbrStroke (5), char:EOLunhyphen (2)|
+|8.|__gap__|281| @__reason__ (281) : illegible (281)  •  @__resp__ (281) : #PDCC (281)  •  @__extent__ (281) : 1 letter (241), 2 letters (23), 1 word (10), 3 letters (4), 4 letters (2), 1 span (1)|
+|9.|__head__|52||
+|10.|__hi__|2551| @__rend__ (7) : sup (7)|
+|11.|__l__|62||
+|12.|__opener__|2||
+|13.|__p__|336||
+|14.|__pb__|202| @__facs__ (202) : tcp:20827:1 (2), tcp:20827:2 (2), tcp:20827:3 (2), tcp:20827:4 (2), tcp:20827:5 (2), tcp:20827:6 (2), tcp:20827:7 (2), tcp:20827:8 (2), tcp:20827:9 (2), tcp:20827:10 (2), tcp:20827:11 (2), tcp:20827:12 (2), tcp:20827:13 (2), tcp:20827:14 (2), tcp:20827:15 (2), tcp:20827:16 (2), tcp:20827:17 (2), tcp:20827:18 (2), tcp:20827:19 (2), tcp:20827:20 (2), tcp:20827:21 (2), tcp:20827:22 (2), tcp:20827:23 (2), tcp:20827:24 (2), tcp:20827:25 (2), tcp:20827:26 (2), tcp:20827:27 (2), tcp:20827:28 (2), tcp:20827:29 (2), tcp:20827:30 (2), tcp:20827:31 (2), tcp:20827:32 (2), tcp:20827:33 (2), tcp:20827:34 (2), tcp:20827:35 (2), tcp:20827:36 (2), tcp:20827:37 (2), tcp:20827:38 (2), tcp:20827:39 (2), tcp:20827:40 (2), tcp:20827:41 (2), tcp:20827:42 (2), tcp:20827:43 (2), tcp:20827:44 (2), tcp:20827:45 (2), tcp:20827:46 (2), tcp:20827:47 (2), tcp:20827:48 (2), tcp:20827:49 (2), tcp:20827:50 (2), tcp:20827:51 (2), tcp:20827:52 (2), tcp:20827:53 (2), tcp:20827:54 (2), tcp:20827:55 (2), tcp:20827:56 (2), tcp:20827:57 (2), tcp:20827:58 (2), tcp:20827:59 (2), tcp:20827:60 (2), tcp:20827:61 (2), tcp:20827:62 (2), tcp:20827:63 (2), tcp:20827:64 (2), tcp:20827:65 (2), tcp:20827:66 (2), tcp:20827:67 (2), tcp:20827:68 (2), tcp:20827:69 (2), tcp:20827:70 (2), tcp:20827:71 (2), tcp:20827:72 (2), tcp:20827:73 (2), tcp:20827:74 (2), tcp:20827:75 (2), tcp:20827:76 (2), tcp:20827:77 (2), tcp:20827:78 (2), tcp:20827:79 (2), tcp:20827:80 (2), tcp:20827:81 (2), tcp:20827:82 (2), tcp:20827:83 (2), tcp:20827:84 (2), tcp:20827:85 (2), tcp:20827:86 (2), tcp:20827:87 (2), tcp:20827:88 (2), tcp:20827:89 (2), tcp:20827:90 (2), tcp:20827:91 (2), tcp:20827:92 (2), tcp:20827:93 (2), tcp:20827:94 (2), tcp:20827:95 (2), tcp:20827:96 (2), tcp:20827:97 (2), tcp:20827:98 (2), tcp:20827:99 (2), tcp:20827:100 (2), tcp:20827:101 (2)  •  @__rendition__ (8) : simple:additions (8)|
+|15.|__q__|3||
+|16.|__salute__|2||
+|17.|__seg__|47| @__rend__ (47) : decorInit (47)|
+|18.|__signed__|3||
+|19.|__trailer__|1||
